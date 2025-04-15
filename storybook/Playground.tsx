@@ -20,7 +20,7 @@ type Theme = 'light' | 'dark';
 const themes = {
   light: {
     sidebar: {
-      backgroundColor: '#ffffff',
+      backgroundColor: '#ffffff2',
       color: '#607489',
     },
     menu: {
